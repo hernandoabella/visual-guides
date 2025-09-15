@@ -1,3 +1,3 @@
 # Visual Guides
 
-## [Version Control](./version-control.md)
+## [Version Control](/version-control)
