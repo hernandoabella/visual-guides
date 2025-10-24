@@ -7,7 +7,7 @@
 -
 
 ## Control Version
-- [Version Control](/Version%20Control)
+- [Version Control](#)
 -
 -
 
@@ -15,3 +15,15 @@
 -
 -
 -
+
+## Python
+-
+-
+-
+
+## Rust 
+-
+-
+-
+
+## JavaScript
