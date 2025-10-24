@@ -1,3 +1,4 @@
 # Visual Guides
 
-## [Version Control](/Version%20Control)
+## Control Version
+- [Version Control](/Version%20Control)
